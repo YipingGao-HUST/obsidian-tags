@@ -1,0 +1,24 @@
+{
+  "name": "obsidian-auto-tagger",
+  "version": "1.0.0",
+  "description": "根据文件内容自动匹配关键词并添加标签",
+  "main": "dist/main.js",
+  "scripts": {
+    "dev": "tsc -watch",
+    "build": "node build.js"
+  },
+  "keywords": [
+    "obsidian",
+    "plugin",
+    "tags",
+    "auto-tagging"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^16.11.6",
+    "esbuild": "^0.28.0",
+    "obsidian": "^1.0.0",
+    "typescript": "^4.7.4"
+  }
+}

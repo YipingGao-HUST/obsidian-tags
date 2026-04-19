@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-tags",
+  "name": "Auto Tagger",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "根据文件内容自动匹配关键词并添加标签",
+  "author": "Your Name",
+  "authorUrl": "",
+  "isDesktopOnly": false
+}
