@@ -13,7 +13,7 @@
     "tags",
     "auto-tagging"
   ],
-  "author": "Your Name",
+  "author": "YipingGao-HUST",
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^16.11.6",
